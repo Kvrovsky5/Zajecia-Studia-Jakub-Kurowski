@@ -1,1 +1,1 @@
-LOREM
+some example content
